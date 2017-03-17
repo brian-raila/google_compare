@@ -1,5 +1,6 @@
-# Google_Compare
+# Google Compare
 
+Description : Compare the popularity of elements through magnitude of Google searches 
 
 # Usage 
 
@@ -7,4 +8,4 @@
 
 	g_object = GoogleResults()
 
-	print g.compare('rihanna', 'donald trump', 'lionel messi')
+	print g_object.compare('rihanna', 'donald trump', 'lionel messi')
