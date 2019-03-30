@@ -1,6 +1,6 @@
 # Google Compare
 
-Description : Compare the popularity of elements through magnitude of Google searches 
+Description : Compare the popularity of elements by using various Google search metrics.
 
 # Usage 
 
