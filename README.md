@@ -1,8 +1,8 @@
-# Google Compare
+## Google Compare
 
-Description : Compare the popularity of elements by using various Google search metrics.
+Description : Compare the popularity and ratings of any "elements" by using various Google search metrics such as results found, existing indexed documents and search interest.
 
-# Usage 
+### Usage 
 
 	from googleRe import GoogleResults
 
